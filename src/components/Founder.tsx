@@ -9,7 +9,7 @@ const Founder = () => {
                 <Image src="/fol.jpeg" alt="" width={300} height={250} className="rounded-full" />
             </div>
             <div className="flex-1 flex flex-col gap-4 p-4 items-center justify-center">
-                <h1 className="text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold pt-8">Founder's Statement</h1>
+                <h1 className="text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold pt-8">Founder&apos;s  Statement</h1>
                 <p>There are hundreds of privately owned orphanages, charity organizations, and international nongovernmental 
                     organizations in Ethiopia, all housing, supporting, and tackling to reduce and prevent orphan children
                      from being on the streets. Since the 1970s famine in Ethiopia, many international-based NGOs such as 

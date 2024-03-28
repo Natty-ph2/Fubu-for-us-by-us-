@@ -9,8 +9,8 @@ const Contact = () => {
         <div className="bg-gray-700 h-[100vh] flex flex-col md:flex-row w-screen mt-4">
             {/* text container */}
             <div className="flex-1 flex flex-col items-center justify-center text-center gap-8 p-6 md:p-20">
-                <h1 className="text-white text-4xl md:text-5xl xl:text-6xl font-bold">Let's do something great together!</h1>
-                <p className="text-white">Have a question, suggestion, or just want to say hello? We'd love to hear from you. Feel free to reach out to us!</p>
+                <h1 className="text-white text-4xl md:text-5xl xl:text-6xl font-bold">Let&apos;s  do something great together!</h1>
+                <p className="text-white">Have a question, suggestion, or just want to say hello? We&apos;d love to hear from you. Feel free to reach out to us!</p>
 
                 <div className="flex flex-col items-start">
                   <h1 className=" text-white text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold">FUBU</h1>
